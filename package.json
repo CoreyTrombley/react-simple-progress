@@ -1,6 +1,6 @@
 {
-  "name": "react-progress",
-  "version": "1.0.0",
+  "name": "react-simple-progress",
+  "version": "0.1.0",
   "description": "A Simple Progress bar built with react",
   "homepage": "https://github.com/CoreyTrombley/react-simple-progress",
   "main": "build/index.js",
