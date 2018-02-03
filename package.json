@@ -2,10 +2,12 @@
   "name": "react-progress",
   "version": "1.0.0",
   "description": "A Simple Progress bar built with react",
+  "homepage": "https://github.com/CoreyTrombley/react-simple-progress",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^15.5.4"
   },
+  "repository": "github:CoreyTrombley/react-simple-progress.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --watch",
